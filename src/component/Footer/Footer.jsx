@@ -7,7 +7,7 @@ const Footer = () => {
           <p className="text-sm mt-8 text-gray-200">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
             gravida, mi eu pulvinar cursus, sem elit interdum mauris dipiscing
-            elit. Aenean gravida, mi eu pulvinar cursususs....{" "}
+            elit. Aenean gravida, mi eu pulvinar cursususs......{" "}
             <a
               href="javascript:void(0)"
               className="text-sm font-semibold text-blue-500"
