@@ -12,7 +12,7 @@ const Footer = () => {
               href="javascript:void(0)"
               className="text-sm font-semibold text-blue-500"
             >
-              Read more.......
+              Read more...
             </a>
           </p>
 
